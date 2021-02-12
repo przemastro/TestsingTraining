@@ -13,7 +13,7 @@ Słowa kluczowe i technologie: Baza Relacyjna, SQL, T-SQL, SQL Server, Managemen
 
 Wszystkie definicje znajdują się w pliku https://github.com/przemastro/testing-glossary-polish/blob/master/zagadnienia.txt.docx
 
-Naszym zadaniem będzie napisanie prostej aplikacji - serwisu restowego z bazą danych i UI oraz przetestowanie jej na 3 poziomach Baza, API i UI. Dodatkowym zadaniem będzie postawienie aplikacji na serwerze aplikacyjnym, umieszczenie kodu w zdalnym repozytorium oraz stworzenie builda w narzędziu CI do odpalania testów automatycznych.
+Naszym zadaniem będzie napisanie prostej aplikacji - serwisu restowego z bazą danych i UI oraz przetestowanie jej na 3 poziomach Baza, API i UI. Dodatkowym zadaniem będzie postawienie aplikacji na serwerze aplikacyjnym, umieszczenie kodu w zdalnym repozytorium oraz stworzenie builda w narzędziu CI do odpalania testów automatycznych. Ponieważ będziemy używać MSSQL niestety trzeba użyć Windowsa.
 
 1. Założenia Szkolenia
 
