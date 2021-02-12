@@ -5,12 +5,13 @@
 [![Python version](https://img.shields.io/badge/Python-2.7.x-%233572A5)](https://github.com/przemastro/testing-training-polish)
 [![npm version](https://img.shields.io/badge/npm-5.0.x-%233572A5)](https://github.com/przemastro/testing-training-polish)
 [![TSQL version](https://img.shields.io/badge/TSQL-2012-%23ccc)](https://github.com/przemastro/testing-training-polish)
+[![Java version](https://img.shields.io/badge/Java-1.8-%23b07219)](https://github.com/przemastro/testing-training-polish)
 
 # Intro
 
 Słowa kluczowe i technologie: Baza Relacyjna, SQL, T-SQL, SQL Server, Management Studio, podbc, Python, Flask, Funkcja, Metoda, Klasa, Obiekt, AngularJS, Bootstrap, HTML, CSS, Intellij, Selenium Webdriver, Maven, RestAssured, SoapUI, TestNG, Header, Endpoint, HTTP, Tomcat, Jenkins, Serwer Aplikacyjny, Continuous Integration, Git, Json, Java, NodeJS, Adnotacja, Klucz Główny i Klucz Obcy, Routing, Kontrolka, Port, npm, Bower, xml, COR request
 
-Wszystkie definicje znajdują się w pliku zaganienia.txt.
+Wszystkie definicje znajdują się w pliku https://github.com/przemastro/testing-glossary-polish/blob/master/zagadnienia.txt.docx
 
 Naszym zadaniem będzie napisanie prostej aplikacji - serwisu restowego z bazą danych i UI oraz przetestowanie jej na 3 poziomach Baza, API i UI. Dodatkowym zadaniem będzie postawienie aplikacji na serwerze aplikacyjnym, umieszczenie kodu w zdalnym repozytorium oraz stworzenie builda w narzędziu CI do odpalania testów automatycznych.
 
