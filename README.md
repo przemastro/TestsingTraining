@@ -11,7 +11,7 @@
 
 Słowa kluczowe i technologie: Baza Relacyjna, SQL, T-SQL, SQL Server, Management Studio, podbc, Python, Flask, Funkcja, Metoda, Klasa, Obiekt, AngularJS, Bootstrap, HTML, CSS, Intellij, Selenium Webdriver, Maven, RestAssured, SoapUI, TestNG, Header, Endpoint, HTTP, Tomcat, Jenkins, Serwer Aplikacyjny, Continuous Integration, Git, Json, Java, NodeJS, Adnotacja, Klucz Główny i Klucz Obcy, Routing, Kontrolka, Port, npm, Bower, xml, COR request
 
-Wszystkie definicje znajdują się w pliku https://github.com/przemastro/testing-glossary-polish/blob/master/zagadnienia.txt.docx
+Wszystkie definicje znajdują się w pliku https://github.com/przemastro/testing-glossary-polish/blob/master/README.md
 
 Naszym zadaniem będzie napisanie prostej aplikacji - serwisu restowego z bazą danych i UI oraz przetestowanie jej na 3 poziomach Baza, API i UI. Dodatkowym zadaniem będzie postawienie aplikacji na serwerze aplikacyjnym, umieszczenie kodu w zdalnym repozytorium oraz stworzenie builda w narzędziu CI do odpalania testów automatycznych. Ponieważ będziemy używać MSSQL niestety trzeba użyć Windowsa.
 
